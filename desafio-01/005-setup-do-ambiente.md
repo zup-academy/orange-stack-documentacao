@@ -8,6 +8,8 @@ Antes de começarmos o desenvolvimento do Desafio PIX precisamos preparar e conf
 
 Durante o ciclo de desenvolvimento do nosso projeto PIX, vamos precisar nos conectar a alguns serviços externos como por exemplo banco de dados, fila de mensagens, sistemas satélites utilizados pelo ITAÚ e serviços do Banco Central do Brasil (BCB) para efetuar transações via PIX, entre outros.
 
+Agora você precisa fazer uma cópia do projeto no Github, temos um vídeo explicando o passo a passo de como fazer esta etapa: [Criando uma cópia do projeto (fork) para o seu usuário do github](https://github.com/zup-academy/orange-talents-06-template-pix-keymanager-grpc)
+
 ### Passo 1: baixando o `docker-compose.yml`
 
 Primeiramente, baixe nosso arquivo `docker-compose.yml` que simulará toda a infraestrutura necessária para rodarmos o Desafio PIX:
